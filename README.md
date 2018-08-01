@@ -1,6 +1,13 @@
 # jy-music
 
-> A Vue.js project
+## 概述
+项目是基于Vue.js，成品是一个移动端的音乐播放器，来源于imooc的实战课程
+
+## 效果图
+![image](https://github.com/Davisjy/Vue-music/blob/master/images/first.jpeg)
+![image](https://github.com/Davisjy/Vue-music/blob/master/images/second.jpeg)
+![image](https://github.com/Davisjy/Vue-music/blob/master/images/third.jpeg)
+![image](https://github.com/Davisjy/Vue-music/blob/master/images/four.jpeg)
 
 ## Build Setup
 
