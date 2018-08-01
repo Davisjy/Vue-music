@@ -17,7 +17,7 @@
 
 #### 从本项目能学到什么
 可直接应用工作的13个基础组件，15个业务组件
-1. confirm：确认对话框组件                2. listview：通讯录列表组件
+1. confirm：确认对话框组件              2. listview：通讯录列表组件
 3.loading：加载态组件                   4.no-result：无结果展示组件
 5.progress-bar：进度条组件              6.progress-circle：圆形进度条组件
 7.scroll：移动端滚动组件                8.search-box：搜索框组件
