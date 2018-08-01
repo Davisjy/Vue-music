@@ -16,9 +16,9 @@
 ![image](https://github.com/Davisjy/Vue-music/blob/master/images/vendor.jpeg)
 
 #### 从本项目能学到什么
-可直接应用工作的13个基础组件，15个业务组件
+可直接应用工作的13个基础组件
 > 
-* [x] confirm：确认对话框组件             * [x] song-list：歌曲列表组件
+* [x] confirm：确认对话框组件 
 * [x] listview：通讯录列表组件
 * [x] loading：加载态组件
 * [x] no-result：无结果展示组件
@@ -32,6 +32,23 @@
 * [x] top-tip：顶部消息提示组件
 * [x] song-list：歌曲列表组件
 
+15个业务组件
+>
+* [x] add-song：添加歌曲到列表组件 
+* [x] disc：歌单详情页组件
+* [x] m-header：页面头部组件
+* [x] music-list：歌曲列表页面组件
+* [x] player：播放器内核组件 
+* [x] playlist：播放列表组件
+* [x] rank：排行榜页面组件
+* [x] recommend：推荐页面组件
+* [x] search：搜索页面组件
+* [x] singer：歌手页面组件
+* [x] singer-detail：歌手详情页组件
+* [x] suggest：搜索提示列表组件
+* [x] tab：顶部导航栏组件
+* [x] top-list：排行榜详情页组件
+* [x] user-center：用户中心页组件
 
 ## Build Setup
 
