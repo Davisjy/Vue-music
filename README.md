@@ -25,11 +25,12 @@
 * [x] progress-bar：进度条组件 
 * [x] progress-circle：圆形进度条组件
 * [x] scroll：移动端滚动组件
-
-7.                 8. search-box：搜索框组件
-9. search-list：搜索列表组件             10. slider：轮播图组件
-11. switches：开关切换组件               12. top-tip：顶部消息提示组件
-13. song-list：歌曲列表组件
+* [x] search-box：搜索框组件
+* [x] search-list：搜索列表组件
+* [x] slider：轮播图组件
+* [x] switches：开关切换组件
+* [x] top-tip：顶部消息提示组件
+* [x] song-list：歌曲列表组件
 
 
 ## Build Setup
