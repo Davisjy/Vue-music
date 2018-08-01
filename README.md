@@ -1,6 +1,7 @@
 # jy-music
 
-> A Vue.js project
+#概述
+项目是基于Vue.js，成品是一个移动端的音乐播放器，来源于imooc的实战课程
 
 ## Build Setup
 
